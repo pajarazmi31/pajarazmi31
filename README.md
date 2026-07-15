@@ -10,13 +10,9 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/pajarazmi31/pajarazmi31/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/pajarazmi31/pajarazmi31/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
 </div>
-
-###
-
-<img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pajarazmi31.pajarazmi31&"  />
 
 ###
 
