@@ -6,12 +6,12 @@
 
 ###
 
-<img data-importer="image" align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNxMTRmdDMyNWd5NnQ1dzBsdDh4NndpbGxsaXBzcjRucXF2NnhtciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<img data-importer="image" align="left" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNxMTRmdDMyNWd5NnQ1dzBsdDh4NndpbGxsaXBzcjRucXF2NnhtciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 
 ###
 
 <div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/pajarazmi31/pajarazmi31/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/pajarazmi31/pajarazmi31/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
 ###
